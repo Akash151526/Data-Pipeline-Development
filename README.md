@@ -1,6 +1,6 @@
 # Data-Pipeline-Development
 
-asDescription about the Task :
+Description about the Task :
 
 This program demonstrates how to build a simple data preprocessing pipeline using the Python libraries Pandas and Scikit-learn. The purpose of the program is to clean, transform, and prepare a dataset so that it can be used for data analysis or machine learning tasks. In real-world datasets, the data may contain missing values, inconsistent formats, or features with different scales. Therefore, preprocessing the data is an important step before performing any analysis.
 
